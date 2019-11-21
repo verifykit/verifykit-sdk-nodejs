@@ -1,0 +1,21 @@
+{
+  "name": "verifykit",
+  "version": "1.0.0",
+  "description": "VerifyKit is the next gen phone number validation system. Users can easily verify their phone numbers without the need of entering phone number or a pin code.",
+  "main": "demo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "verifykit"
+  ],
+  "author": "VerifyKit",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/verifykit/verifykit-sdk-nodejs"
+  }
+}
