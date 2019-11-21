@@ -1,6 +1,6 @@
 {
   "name": "verifykit",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "VerifyKit is the next gen phone number validation system. Users can easily verify their phone numbers without the need of entering phone number or a pin code.",
   "main": "VerifyKit.js",
   "scripts": {
